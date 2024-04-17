@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.example.cikitsam">
+
+    <uses-feature android:name="android.hardware.sensor.accelerometer" />
+
+    <uses-permission android:name="android.permission.BODY_SENSORS" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-feature android:name="android.hardware.camera" />
+    <uses-feature android:name="android.hardware.camera.autofocus" />
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Cikitsam"
+        tools:targetApi="31">
+        <activity
+            android:name=".Face_reader"
+            android:exported="false" />
+        <activity
+            android:name=".semantic_analyzer"
+            android:exported="false" />
+        <activity
+            android:name=".Guidance"
+            android:exported="false" />
+        <activity
+            android:name=".Database_Connectivity"
+            android:exported="false" />
+        <activity
+            android:name=".Terms_Conditions"
+            android:exported="false" />
+        <activity
+            android:name=".Setting"
+            android:exported="false" />
+        <activity
+            android:name=".Personal_Details"
+            android:exported="false" />
+        <activity
+            android:name=".Mood_Tracker"
+            android:exported="false" />
+        <activity
+            android:name=".FAQs"
+            android:exported="false" />
+        <activity
+            android:name=".Past_History"
+            android:exported="false" />
+        <activity
+            android:name=".gad_hindi_result"
+            android:exported="false" />
+        <activity
+            android:name=".gad_hindi_7"
+            android:exported="false" />
+        <activity
+            android:name=".gad_hindi_6"
+            android:exported="false" />
+        <activity
+            android:name=".gad_hindi_5"
+            android:exported="false" />
+        <activity
+            android:name=".gad_hindi_4"
+            android:exported="false" />
+        <activity
+            android:name=".gad_hindi_3"
+            android:exported="false" />
+        <activity
+            android:name=".gad_hindi_2"
+            android:exported="false" />
+        <activity
+            android:name=".gad_hindi_1"
+            android:exported="false" />
+        <activity
+            android:name=".Butterfly"
+            android:exported="false" />
+        <activity
+            android:name=".Makarasana"
+            android:exported="false" />
+        <activity
+            android:name=".Simhasana"
+            android:exported="false" />
+        <activity
+            android:name=".Kapalbhati"
+            android:exported="false" />
+        <activity
+            android:name=".Result_gad"
+            android:exported="false" />
+        <activity
+            android:name=".gad_ques7"
+            android:exported="false" />
+        <activity
+            android:name=".gad_ques6"
+            android:exported="false" />
+        <activity
+            android:name=".gad_ques5"
+            android:exported="false" />
+        <activity
+            android:name=".gad_ques4"
+            android:exported="false" />
+        <activity
+            android:name=".gad_ques3"
+            android:exported="false" />
+        <activity
+            android:name=".gad_ques2"
+            android:exported="false" />
+        <activity
+            android:name=".Gad_ques1"
+            android:exported="false" />
+        <activity
+            android:name=".yoga_exercise"
+            android:exported="false" />
+        <activity
+            android:name=".Box_Breathing"
+            android:exported="false" />
+        <activity
+            android:name=".Breathing_478"
+            android:exported="false" />
+        <activity
+            android:name=".Equal_Breathing"
+            android:exported="false" />
+        <activity
+            android:name=".Breath_holdTest"
+            android:exported="false" />
+        <activity
+            android:name=".Breathing_Exercise"
+            android:exported="false" />
+        <activity
+            android:name=".result_phq"
+            android:exported="false" />
+        <activity
+            android:name=".Test_ques9"
+            android:exported="false" />
+        <activity
+            android:name=".Test_ques8"
+            android:exported="false" />
+        <activity
+            android:name=".Test_ques7"
+            android:exported="false" />
+        <activity
+            android:name=".Test_ques6"
+            android:exported="false" />
+        <activity
+            android:name=".Test_ques5"
+            android:exported="false" />
+        <activity
+            android:name=".Test_ques4"
+            android:exported="false" />
+        <activity
+            android:name=".Test_ques3"
+            android:exported="false" />
+        <activity
+            android:name=".Test_ques2"
+            android:exported="false" />
+        <activity
+            android:name=".Test_ques1"
+            android:exported="false" />
+        <activity
+            android:name=".NNN"
+            android:exported="false" />
+        <activity
+            android:name=".ResultHindi"
+            android:exported="false" />
+        <activity
+            android:name=".Ques21hindi"
+            android:exported="false" />
+        <activity
+            android:name=".Ques20hindi"
+            android:exported="false" />
+        <activity
+            android:name=".Ques19hindi"
+            android:exported="false" />
+        <activity
+            android:name=".Ques18hindi"
+            android:exported="false" />
+        <activity
+            android:name=".Ques17hindi"
+            android:exported="false" />
+        <activity
+            android:name=".Ques16hindi"
+            android:exported="false" />
+        <activity
+            android:name=".Ques15hindi"
+            android:exported="false" />
+        <activity
+            android:name=".Ques14hindi"
+            android:exported="false" />
+        <activity
+            android:name=".Ques13hindi"
+            android:exported="false" />
+        <activity
+            android:name=".Ques12hindi"
+            android:exported="false" />
+        <activity
+            android:name=".Ques11hindi"
+            android:exported="false" />
+        <activity
+            android:name=".Ques10hindi"
+            android:exported="false" />
+        <activity
+            android:name=".Ques9hindi"
+            android:exported="false" />
+        <activity
+            android:name=".Ques8hindi"
+            android:exported="false" />
+        <activity
+            android:name=".Ques7hindi"
+            android:exported="false" />
+        <activity
+            android:name=".Ques6hindi"
+            android:exported="false" />
+        <activity
+            android:name=".Ques5hindi"
+            android:exported="false" />
+        <activity
+            android:name=".Ques4hindi"
+            android:exported="false" />
+        <activity
+            android:name=".Ques3hindi"
+            android:exported="false" />
+        <activity
+            android:name=".queshindi2"
+            android:exported="false" />
+        <activity
+            android:name=".Queshindi1"
+            android:exported="false" />
+        <activity
+            android:name=".language"
+            android:exported="false" />
+        <activity
+            android:name=".ResultActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Questionaire21"
+            android:exported="false" />
+        <activity
+            android:name=".Questionaire20"
+            android:exported="false" />
+        <activity
+            android:name=".Questionaire19"
+            android:exported="false" />
+        <activity
+            android:name=".Questionaire18"
+            android:exported="false" />
+        <activity
+            android:name=".Questionaire17"
+            android:exported="false" />
+        <activity
+            android:name=".Questionaire16"
+            android:exported="false" />
+        <activity
+            android:name=".Questionaire15"
+            android:exported="false" />
+        <activity
+            android:name=".Questionaire14"
+            android:exported="false" />
+        <activity
+            android:name=".Questionaire13"
+            android:exported="false" />
+        <activity
+            android:name=".Questionaire12"
+            android:exported="false" />
+        <activity
+            android:name=".Questionaire11"
+            android:exported="false" />
+        <activity
+            android:name=".Questionaire10"
+            android:exported="false" />
+        <activity
+            android:name=".Questionaire9"
+            android:exported="false" />
+        <activity
+            android:name=".Questionaire8"
+            android:exported="false" />
+        <activity
+            android:name=".Questionaire7"
+            android:exported="false" />
+        <activity
+            android:name=".Questionaire6"
+            android:exported="false" />
+        <activity
+            android:name=".Questionaire5"
+            android:exported="false" />
+        <activity
+            android:name=".Questionaire4"
+            android:exported="false" />
+        <activity
+            android:name=".Questionaire3"
+            android:exported="false" />
+        <activity
+            android:name=".Questionaire2"
+            android:exported="false" />
+        <activity
+            android:name=".Questionaire1"
+            android:exported="false" />
+        <activity
+            android:name=".StepCount"
+            android:exported="false" />
+        <activity
+            android:name=".AdditionalDetails"
+            android:exported="false" />
+        <activity
+            android:name=".login"
+            android:exported="false" />
+        <activity
+            android:name=".SignUp"
+            android:exported="false" />
+        <activity
+            android:name=".splash_activity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".MainActivity"
+            android:exported="true" />
+    </application>
+
+</manifest>

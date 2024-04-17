@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group
+        android:checkableBehavior="single">
+
+
+        <item
+            android:id="@+id/homey"
+            android:background="#000"
+            android:textColor="#000"
+            android:icon="@drawable/ic_baseline_home_24"
+            android:title="Home"/>
+        <item
+            android:id="@+id/act"
+            android:background="#000"
+            android:icon="@drawable/activities"
+            android:textColor="#000"
+            android:title="Activities"/>
+
+        <item
+            android:id="@+id/symptoms"
+            android:background="#000"
+            android:icon="@drawable/ic_baseline_medical_services_24"
+            android:textColor="#000"
+            android:title="Check your Symptoms"/>
+        <item
+            android:id="@+id/med"
+            android:background="#000"
+            android:icon="@drawable/phone"
+            android:textColor="#000"
+            android:title="Contact Us"/>
+        <item
+            android:id="@+id/info"
+            android:background="#000"
+            android:textColor="#000"
+            android:icon="@drawable/ic_baseline_info_24"
+            android:title="About Us"/>
+
+
+        <item
+            android:id="@+id/out"
+            android:background="#000"
+            android:icon="@drawable/logout"
+            android:textColor="#000"
+            android:title="Logout"/>
+    </group>
+
+</menu>

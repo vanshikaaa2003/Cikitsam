@@ -1,0 +1,137 @@
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/User/My_app_projects/Cikitsam/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="..\:/Users/User/My_app_projects/Cikitsam/app/src/main/res/drawable/bubble_assistant.xml" value="0.1" />
+        <entry key="..\:/Users/User/My_app_projects/Cikitsam/app/src/main/res/drawable/custom_button.xml" value="0.1" />
+        <entry key="..\:/Users/User/My_app_projects/Cikitsam/app/src/main/res/drawable/custom_dailog_bg.xml" value="0.1" />
+        <entry key="..\:/Users/User/My_app_projects/Cikitsam/app/src/main/res/drawable/custom_edittext.xml" value="0.1" />
+        <entry key="..\:/Users/User/My_app_projects/Cikitsam/app/src/main/res/drawable/faq.xml" value="0.1" />
+        <entry key="..\:/Users/User/My_app_projects/Cikitsam/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/Users/User/My_app_projects/Cikitsam/app/src/main/res/drawable/info.xml" value="0.1" />
+        <entry key="..\:/Users/User/My_app_projects/Cikitsam/app/src/main/res/drawable/past.xml" value="0.1" />
+        <entry key="..\:/Users/User/My_app_projects/Cikitsam/app/src/main/res/drawable/setting.xml" value="0.1" />
+        <entry key="..\:/Users/User/My_app_projects/Cikitsam/app/src/main/res/layout/activity_additional_details.xml" value="0.22" />
+        <entry key="..\:/Users/User/My_app_projects/Cikitsam/app/src/main/res/layout/activity_bottombar.xml" value="0.25" />
+        <entry key="..\:/Users/User/My_app_projects/Cikitsam/app/src/main/res/layout/activity_box_breathing.xml" value="0.25" />
+        <entry key="..\:/Users/User/My_app_projects/Cikitsam/app/src/main/res/layout/activity_breath_hold_test.xml" value="0.2" />
+        <entry key="..\:/Users/User/My_app_projects/Cikitsam/app/src/main/res/layout/activity_breathing478.xml" value="0.22" />
+        <entry key="..\:/Users/User/My_app_projects/Cikitsam/app/src/main/res/layout/activity_breathing_exercise.xml" value="0.25" />
+        <entry key="..\:/Users/User/My_app_projects/Cikitsam/app/src/main/res/layout/activity_butterfly.xml" value="0.1" />
+        <entry key="..\:/Users/User/My_app_projects/Cikitsam/app/src/main/res/layout/activity_database_connectivity.xml" value="0.25" />
+        <entry key="..\:/Users/User/My_app_projects/Cikitsam/app/src/main/res/layout/activity_equal_breathing.xml" value="0.22" />
+        <entry key="..\:/Users/User/My_app_projects/Cikitsam/app/src/main/res/layout/activity_faqs.xml" value="0.18" />
+        <entry key="..\:/Users/User/My_app_projects/Cikitsam/app/src/main/res/layout/activity_gad_hindi1.xml" value="0.1" />
+        <entry key="..\:/Users/User/My_app_projects/Cikitsam/app/src/main/res/layout/activity_gad_hindi2.xml" value="0.1" />
+        <entry key="..\:/Users/User/My_app_projects/Cikitsam/app/src/main/res/layout/activity_gad_hindi3.xml" value="0.1" />
+        <entry key="..\:/Users/User/My_app_projects/Cikitsam/app/src/main/res/layout/activity_gad_hindi4.xml" value="0.1" />
+        <entry key="..\:/Users/User/My_app_projects/Cikitsam/app/src/main/res/layout/activity_gad_hindi5.xml" value="0.1" />
+        <entry key="..\:/Users/User/My_app_projects/Cikitsam/app/src/main/res/layout/activity_gad_hindi6.xml" value="0.1" />
+        <entry key="..\:/Users/User/My_app_projects/Cikitsam/app/src/main/res/layout/activity_gad_hindi7.xml" value="0.1" />
+        <entry key="..\:/Users/User/My_app_projects/Cikitsam/app/src/main/res/layout/activity_gad_hindi_result.xml" value="0.1" />
+        <entry key="..\:/Users/User/My_app_projects/Cikitsam/app/src/main/res/layout/activity_gad_ques1.xml" value="0.18" />
+        <entry key="..\:/Users/User/My_app_projects/Cikitsam/app/src/main/res/layout/activity_gad_ques2.xml" value="0.1" />
+        <entry key="..\:/Users/User/My_app_projects/Cikitsam/app/src/main/res/layout/activity_gad_ques3.xml" value="0.1" />
+        <entry key="..\:/Users/User/My_app_projects/Cikitsam/app/src/main/res/layout/activity_gad_ques4.xml" value="0.22" />
+        <entry key="..\:/Users/User/My_app_projects/Cikitsam/app/src/main/res/layout/activity_gad_ques5.xml" value="0.18" />
+        <entry key="..\:/Users/User/My_app_projects/Cikitsam/app/src/main/res/layout/activity_gad_ques6.xml" value="0.22" />
+        <entry key="..\:/Users/User/My_app_projects/Cikitsam/app/src/main/res/layout/activity_gad_ques7.xml" value="0.25" />
+        <entry key="..\:/Users/User/My_app_projects/Cikitsam/app/src/main/res/layout/activity_guidance.xml" value="0.1" />
+        <entry key="..\:/Users/User/My_app_projects/Cikitsam/app/src/main/res/layout/activity_kapalbhati.xml" value="0.18650306748466258" />
+        <entry key="..\:/Users/User/My_app_projects/Cikitsam/app/src/main/res/layout/activity_language.xml" value="0.24375" />
+        <entry key="..\:/Users/User/My_app_projects/Cikitsam/app/src/main/res/layout/activity_login.xml" value="0.33" />
+        <entry key="..\:/Users/User/My_app_projects/Cikitsam/app/src/main/res/layout/activity_main.xml" value="0.2401263823064771" />
+        <entry key="..\:/Users/User/My_app_projects/Cikitsam/app/src/main/res/layout/activity_makarasana.xml" value="0.2401263823064771" />
+        <entry key="..\:/Users/User/My_app_projects/Cikitsam/app/src/main/res/layout/activity_mood_tracker.xml" value="0.25" />
+        <entry key="..\:/Users/User/My_app_projects/Cikitsam/app/src/main/res/layout/activity_nnn.xml" value="0.1" />
+        <entry key="..\:/Users/User/My_app_projects/Cikitsam/app/src/main/res/layout/activity_past_history.xml" value="0.25" />
+        <entry key="..\:/Users/User/My_app_projects/Cikitsam/app/src/main/res/layout/activity_personal_details.xml" value="0.22" />
+        <entry key="..\:/Users/User/My_app_projects/Cikitsam/app/src/main/res/layout/activity_ques10hindi.xml" value="0.1" />
+        <entry key="..\:/Users/User/My_app_projects/Cikitsam/app/src/main/res/layout/activity_ques11hindi.xml" value="0.1" />
+        <entry key="..\:/Users/User/My_app_projects/Cikitsam/app/src/main/res/layout/activity_ques12hindi.xml" value="0.1" />
+        <entry key="..\:/Users/User/My_app_projects/Cikitsam/app/src/main/res/layout/activity_ques13hindi.xml" value="0.18" />
+        <entry key="..\:/Users/User/My_app_projects/Cikitsam/app/src/main/res/layout/activity_ques14hindi.xml" value="0.22" />
+        <entry key="..\:/Users/User/My_app_projects/Cikitsam/app/src/main/res/layout/activity_ques15hindi.xml" value="0.18" />
+        <entry key="..\:/Users/User/My_app_projects/Cikitsam/app/src/main/res/layout/activity_ques16hindi.xml" value="0.1" />
+        <entry key="..\:/Users/User/My_app_projects/Cikitsam/app/src/main/res/layout/activity_ques17hindi.xml" value="0.1" />
+        <entry key="..\:/Users/User/My_app_projects/Cikitsam/app/src/main/res/layout/activity_ques18hindi.xml" value="0.1" />
+        <entry key="..\:/Users/User/My_app_projects/Cikitsam/app/src/main/res/layout/activity_ques19hindi.xml" value="0.18" />
+        <entry key="..\:/Users/User/My_app_projects/Cikitsam/app/src/main/res/layout/activity_ques20hindi.xml" value="0.12" />
+        <entry key="..\:/Users/User/My_app_projects/Cikitsam/app/src/main/res/layout/activity_ques21hindi.xml" value="0.22" />
+        <entry key="..\:/Users/User/My_app_projects/Cikitsam/app/src/main/res/layout/activity_ques3hindi.xml" value="0.22" />
+        <entry key="..\:/Users/User/My_app_projects/Cikitsam/app/src/main/res/layout/activity_ques4hindi.xml" value="0.22" />
+        <entry key="..\:/Users/User/My_app_projects/Cikitsam/app/src/main/res/layout/activity_ques5hindi.xml" value="0.18" />
+        <entry key="..\:/Users/User/My_app_projects/Cikitsam/app/src/main/res/layout/activity_ques6hindi.xml" value="0.18" />
+        <entry key="..\:/Users/User/My_app_projects/Cikitsam/app/src/main/res/layout/activity_ques7hindi.xml" value="0.22" />
+        <entry key="..\:/Users/User/My_app_projects/Cikitsam/app/src/main/res/layout/activity_ques8hindi.xml" value="0.22" />
+        <entry key="..\:/Users/User/My_app_projects/Cikitsam/app/src/main/res/layout/activity_ques9hindi.xml" value="0.1" />
+        <entry key="..\:/Users/User/My_app_projects/Cikitsam/app/src/main/res/layout/activity_queshindi1.xml" value="0.33" />
+        <entry key="..\:/Users/User/My_app_projects/Cikitsam/app/src/main/res/layout/activity_queshindi2.xml" value="0.33" />
+        <entry key="..\:/Users/User/My_app_projects/Cikitsam/app/src/main/res/layout/activity_questionaire1.xml" value="0.22" />
+        <entry key="..\:/Users/User/My_app_projects/Cikitsam/app/src/main/res/layout/activity_questionaire10.xml" value="0.18" />
+        <entry key="..\:/Users/User/My_app_projects/Cikitsam/app/src/main/res/layout/activity_questionaire11.xml" value="0.15" />
+        <entry key="..\:/Users/User/My_app_projects/Cikitsam/app/src/main/res/layout/activity_questionaire12.xml" value="0.15" />
+        <entry key="..\:/Users/User/My_app_projects/Cikitsam/app/src/main/res/layout/activity_questionaire13.xml" value="0.1" />
+        <entry key="..\:/Users/User/My_app_projects/Cikitsam/app/src/main/res/layout/activity_questionaire14.xml" value="0.15" />
+        <entry key="..\:/Users/User/My_app_projects/Cikitsam/app/src/main/res/layout/activity_questionaire15.xml" value="0.1" />
+        <entry key="..\:/Users/User/My_app_projects/Cikitsam/app/src/main/res/layout/activity_questionaire16.xml" value="0.18" />
+        <entry key="..\:/Users/User/My_app_projects/Cikitsam/app/src/main/res/layout/activity_questionaire17.xml" value="0.1" />
+        <entry key="..\:/Users/User/My_app_projects/Cikitsam/app/src/main/res/layout/activity_questionaire18.xml" value="0.1" />
+        <entry key="..\:/Users/User/My_app_projects/Cikitsam/app/src/main/res/layout/activity_questionaire19.xml" value="0.22" />
+        <entry key="..\:/Users/User/My_app_projects/Cikitsam/app/src/main/res/layout/activity_questionaire2.xml" value="0.22" />
+        <entry key="..\:/Users/User/My_app_projects/Cikitsam/app/src/main/res/layout/activity_questionaire20.xml" value="0.1" />
+        <entry key="..\:/Users/User/My_app_projects/Cikitsam/app/src/main/res/layout/activity_questionaire21.xml" value="0.22" />
+        <entry key="..\:/Users/User/My_app_projects/Cikitsam/app/src/main/res/layout/activity_questionaire3.xml" value="0.22" />
+        <entry key="..\:/Users/User/My_app_projects/Cikitsam/app/src/main/res/layout/activity_questionaire4.xml" value="0.22" />
+        <entry key="..\:/Users/User/My_app_projects/Cikitsam/app/src/main/res/layout/activity_questionaire5.xml" value="0.22" />
+        <entry key="..\:/Users/User/My_app_projects/Cikitsam/app/src/main/res/layout/activity_questionaire6.xml" value="0.22" />
+        <entry key="..\:/Users/User/My_app_projects/Cikitsam/app/src/main/res/layout/activity_questionaire7.xml" value="0.22" />
+        <entry key="..\:/Users/User/My_app_projects/Cikitsam/app/src/main/res/layout/activity_questionaire8.xml" value="0.25" />
+        <entry key="..\:/Users/User/My_app_projects/Cikitsam/app/src/main/res/layout/activity_questionaire9.xml" value="0.18" />
+        <entry key="..\:/Users/User/My_app_projects/Cikitsam/app/src/main/res/layout/activity_result.xml" value="0.25" />
+        <entry key="..\:/Users/User/My_app_projects/Cikitsam/app/src/main/res/layout/activity_result_gad.xml" value="0.33" />
+        <entry key="..\:/Users/User/My_app_projects/Cikitsam/app/src/main/res/layout/activity_result_hindi.xml" value="0.1" />
+        <entry key="..\:/Users/User/My_app_projects/Cikitsam/app/src/main/res/layout/activity_result_phq.xml" value="0.33" />
+        <entry key="..\:/Users/User/My_app_projects/Cikitsam/app/src/main/res/layout/activity_setting.xml" value="0.25" />
+        <entry key="..\:/Users/User/My_app_projects/Cikitsam/app/src/main/res/layout/activity_sign_up.xml" value="0.22" />
+        <entry key="..\:/Users/User/My_app_projects/Cikitsam/app/src/main/res/layout/activity_simhasana.xml" value="0.18" />
+        <entry key="..\:/Users/User/My_app_projects/Cikitsam/app/src/main/res/layout/activity_splash.xml" value="0.18" />
+        <entry key="..\:/Users/User/My_app_projects/Cikitsam/app/src/main/res/layout/activity_step_count.xml" value="0.1" />
+        <entry key="..\:/Users/User/My_app_projects/Cikitsam/app/src/main/res/layout/activity_terms_conditions.xml" value="0.18" />
+        <entry key="..\:/Users/User/My_app_projects/Cikitsam/app/src/main/res/layout/activity_test_ques1.xml" value="0.18" />
+        <entry key="..\:/Users/User/My_app_projects/Cikitsam/app/src/main/res/layout/activity_test_ques2.xml" value="0.22" />
+        <entry key="..\:/Users/User/My_app_projects/Cikitsam/app/src/main/res/layout/activity_test_ques3.xml" value="0.1" />
+        <entry key="..\:/Users/User/My_app_projects/Cikitsam/app/src/main/res/layout/activity_test_ques4.xml" value="0.1" />
+        <entry key="..\:/Users/User/My_app_projects/Cikitsam/app/src/main/res/layout/activity_test_ques5.xml" value="0.1" />
+        <entry key="..\:/Users/User/My_app_projects/Cikitsam/app/src/main/res/layout/activity_test_ques6.xml" value="0.12" />
+        <entry key="..\:/Users/User/My_app_projects/Cikitsam/app/src/main/res/layout/activity_test_ques7.xml" value="0.1" />
+        <entry key="..\:/Users/User/My_app_projects/Cikitsam/app/src/main/res/layout/activity_test_ques8.xml" value="0.15" />
+        <entry key="..\:/Users/User/My_app_projects/Cikitsam/app/src/main/res/layout/activity_test_ques9.xml" value="0.1" />
+        <entry key="..\:/Users/User/My_app_projects/Cikitsam/app/src/main/res/layout/activity_yoga_exercise.xml" value="0.25" />
+        <entry key="..\:/Users/User/My_app_projects/Cikitsam/app/src/main/res/layout/custom_dailog_box.xml" value="0.22033898305084745" />
+        <entry key="..\:/Users/User/My_app_projects/Cikitsam/app/src/main/res/layout/fragment_activities.xml" value="0.1" />
+        <entry key="..\:/Users/User/My_app_projects/Cikitsam/app/src/main/res/layout/fragment_exercise.xml" value="0.2" />
+        <entry key="..\:/Users/User/My_app_projects/Cikitsam/app/src/main/res/layout/fragment_home.xml" value="0.22" />
+        <entry key="..\:/Users/User/My_app_projects/Cikitsam/app/src/main/res/layout/fragment_info.xml" value="0.1" />
+        <entry key="..\:/Users/User/My_app_projects/Cikitsam/app/src/main/res/layout/fragment_profile.xml" value="0.22" />
+        <entry key="..\:/Users/User/My_app_projects/Cikitsam/app/src/main/res/layout/fragment_symptoms.xml" value="0.2" />
+        <entry key="..\:/Users/User/My_app_projects/Cikitsam/app/src/main/res/layout/fragment_watch.xml" value="0.19" />
+        <entry key="..\:/Users/User/My_app_projects/Cikitsam/app/src/main/res/layout/item_list.xml" value="0.1" />
+        <entry key="..\:/Users/User/My_app_projects/Cikitsam/app/src/main/res/layout/item_message.xml" value="0.1" />
+        <entry key="..\:/Users/User/My_app_projects/Cikitsam/app/src/main/res/layout/list_item.xml" value="0.1" />
+        <entry key="..\:/Users/User/My_app_projects/Cikitsam/app/src/main/res/layout/list_item_health_data.xml" value="0.1" />
+        <entry key="..\:/Users/User/My_app_projects/Cikitsam/app/src/main/res/layout/list_items.xml" value="0.1" />
+        <entry key="..\:/Users/User/My_app_projects/Cikitsam/app/src/main/res/layout/nav_header.xml" value="0.22" />
+        <entry key="..\:/Users/User/My_app_projects/Cikitsam/app/src/main/res/menu/bottom_navigation_menu.xml" value="0.33" />
+        <entry key="..\:/Users/User/My_app_projects/Cikitsam/app/src/main/res/menu/navigation_drawer_menu.xml" value="0.33" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="jbr-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

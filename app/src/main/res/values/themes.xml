@@ -1,0 +1,24 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.Cikitsam" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">#BFC2DDF0</item>
+        <item name="colorPrimaryVariant">#BFC2DDF0</item>
+        <item name="android:textColorPrimary">#323232</item>
+        <item name="android:statusBarColor">#A1C5DF</item>
+        <item name="colorOnPrimary">@color/black</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_700</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <!-- Status bar color. -->
+        <!-- Customize your theme here. -->
+    </style>
+    <style name="ThemeOverlay.AppCompat.navTheme">
+        <item name="colorPrimary">@color/white</item>
+    </style>
+    <style name="ThemeOverlay.AppCompat.navThemev">
+        <item name="colorPrimary">#070707</item>
+        <item name="colorPrimaryVariant">#BF111212</item>
+    </style>
+</resources>

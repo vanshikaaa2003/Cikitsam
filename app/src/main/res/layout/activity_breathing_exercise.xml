@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Breathing_Exercise"
+    android:background="@drawable/mainbc">
+
+    <ImageView
+        android:id="@+id/yp"
+        android:layout_width="match_parent"
+        android:layout_height="258dp"
+        app:layout_constraintBottom_toBottomOf="@+id/gridLayout"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.0"
+        app:srcCompat="@drawable/breath_1" />
+
+    <GridLayout
+        android:id="@+id/gridLayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+        android:layout_marginBottom="16dp"
+        android:columnCount="1"
+        android:columnOrderPreserved="false"
+        android:rowCount="4"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.831">
+
+
+        <androidx.cardview.widget.CardView
+            android:id="@+id/equal_breathing"
+            android:layout_width="355dp"
+            android:layout_height="70dp"
+            android:layout_row="0"
+            android:layout_column="0"
+            android:layout_margin="12dp"
+            android:layout_marginLeft="20dp"
+            android:backgroundTint="#fdf1e0"
+            android:outlineProvider="none"
+            app:cardCornerRadius="25dp">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="horizontal">
+
+
+                <ImageView
+                    android:layout_width="68dp"
+                    android:layout_height="wrap_content"
+                    app:srcCompat="@drawable/b_2" />
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content">
+
+                    <TextView
+
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:gravity="center"
+                        android:padding="15dp"
+                        android:text="EQUAL BREATHING"
+                        android:textColor="#373737"
+                        android:textSize="25dp" />
+
+                </LinearLayout>
+            </LinearLayout>
+        </androidx.cardview.widget.CardView>
+
+        <androidx.cardview.widget.CardView
+            android:id="@+id/box_breathing"
+            android:layout_width="355dp"
+            android:layout_height="70dp"
+            android:layout_row="1"
+            android:layout_column="0"
+
+            android:layout_marginLeft="20dp"
+            android:backgroundTint="#fdf1e0"
+            android:outlineProvider="none"
+            app:cardCornerRadius="25dp">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="horizontal">
+
+                <ImageView
+                    android:layout_width="68dp"
+                    android:layout_height="wrap_content"
+                    app:srcCompat="@drawable/b_2" />
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:gravity="center"
+                        android:padding="15dp"
+                        android:text="BOX BREATHING"
+                        android:textColor="#373737"
+                        android:textSize="25dp" />
+
+                </LinearLayout>
+            </LinearLayout>
+        </androidx.cardview.widget.CardView>
+
+        <androidx.cardview.widget.CardView
+            android:id="@+id/breathing_4_7_8"
+            android:layout_width="355dp"
+            android:layout_height="70dp"
+            android:layout_row="2"
+            android:layout_column="0"
+            android:layout_margin="12dp"
+            android:layout_marginLeft="20dp"
+            android:backgroundTint="#fdf1e0"
+            android:outlineProvider="none"
+            app:cardCornerRadius="25dp">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="horizontal">
+
+                <ImageView
+                    android:layout_width="68dp"
+                    android:layout_height="wrap_content"
+                    app:srcCompat="@drawable/b_2" />
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:gravity="center"
+                        android:padding="15dp"
+                        android:text="4-7-8 BREATHING"
+                        android:textColor="#373737"
+                        android:textSize="25dp" />
+
+
+                </LinearLayout>
+            </LinearLayout>
+        </androidx.cardview.widget.CardView>
+
+        <androidx.cardview.widget.CardView
+            android:id="@+id/hold_test"
+            android:layout_width="355dp"
+            android:layout_height="70dp"
+            android:layout_row="3"
+            android:layout_column="0"
+            android:layout_margin="12dp"
+            android:layout_marginLeft="20dp"
+            android:backgroundTint="#fdf1e0"
+            android:outlineProvider="none"
+            app:cardCornerRadius="25dp">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="horizontal">
+
+                <ImageView
+                    android:layout_width="68dp"
+                    android:layout_height="wrap_content"
+                    app:srcCompat="@drawable/b_2" />
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:gravity="center"
+                        android:padding="15dp"
+                        android:text="BREATH HOLDING TEST"
+                        android:textColor="#373737"
+                        android:textSize="22dp" />
+
+                </LinearLayout>
+            </LinearLayout>
+        </androidx.cardview.widget.CardView>
+
+    </GridLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

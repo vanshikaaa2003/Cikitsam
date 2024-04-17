@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".SymptomsFragment">
+
+ <androidx.constraintlayout.widget.ConstraintLayout
+     android:layout_width="match_parent"
+     android:layout_height="match_parent"
+     android:background="@drawable/mainbc">
+
+     <TextView
+         android:id="@+id/textView10"
+         android:layout_width="match_parent"
+         android:layout_height="wrap_content"
+         android:gravity="center"
+         android:text="Check your Symtoms"
+         android:textSize="32dp"
+         app:layout_constraintBottom_toBottomOf="parent"
+         app:layout_constraintEnd_toEndOf="parent"
+         app:layout_constraintHorizontal_bias="0.0"
+         app:layout_constraintStart_toStartOf="parent"
+         app:layout_constraintTop_toTopOf="parent"
+         app:layout_constraintVertical_bias="0.101" />
+
+     <GridLayout
+         android:id="@+id/gridLayout"
+         android:layout_width="match_parent"
+         android:layout_height="wrap_content"
+         android:layout_gravity="center"
+         android:layout_margin="10dp"
+         android:columnCount="2"
+         android:columnOrderPreserved="false"
+         android:rowCount="4"
+         app:layout_constraintVertical_bias="0.05"
+         app:layout_constraintBottom_toBottomOf="parent"
+         app:layout_constraintEnd_toEndOf="parent"
+         app:layout_constraintStart_toStartOf="parent"
+         app:layout_constraintTop_toBottomOf="@+id/textView10">
+
+         <androidx.cardview.widget.CardView
+             android:layout_width="145dp"
+             android:layout_height="120dp"
+             android:layout_row="0"
+             android:layout_column="0"
+             android:layout_margin="5dp"
+             android:layout_marginLeft="25dp"
+             android:backgroundTint="#CCBBE5E1"
+             android:clickable="true"
+             android:outlineProvider="none">
+             <ImageView
+                 android:layout_width="match_parent"
+                 android:layout_height="match_parent"
+                 android:scaleType="centerCrop"
+                 android:src="@drawable/symp1" />
+             <LinearLayout
+                 android:layout_width="wrap_content"
+                 android:layout_height="wrap_content"
+                 android:orientation="vertical">
+
+                 <TextView
+                     android:layout_width="match_parent"
+                     android:layout_height="120dp"
+                     android:gravity="center"
+                     android:text="Loss of interest or loss of pleasure in all activities"
+                     android:textColor="#373737"
+                     android:textSize="20dp" />
+             </LinearLayout>
+         </androidx.cardview.widget.CardView>
+         <androidx.cardview.widget.CardView
+             android:layout_width="145dp"
+             android:layout_height="120dp"
+             android:layout_row="0"
+             android:layout_column="1"
+             android:layout_margin="5dp"
+             android:layout_marginLeft="25dp"
+             android:backgroundTint="#99FFDE59"
+             android:clickable="true"
+             android:outlineProvider="none">
+             <ImageView
+                 android:layout_width="match_parent"
+                 android:layout_height="match_parent"
+                 android:scaleType="centerCrop"
+                 android:src="@drawable/symp2" />
+             <LinearLayout
+                 android:layout_width="wrap_content"
+                 android:layout_height="wrap_content"
+                 android:orientation="vertical">
+
+                 <TextView
+                     android:layout_width="match_parent"
+                     android:layout_height="120dp"
+                     android:gravity="center"
+                     android:text="Change in appetite or weight"
+                     android:textColor="#373737"
+                     android:textSize="20dp" />
+             </LinearLayout>
+         </androidx.cardview.widget.CardView>
+         <androidx.cardview.widget.CardView
+             android:layout_width="145dp"
+             android:layout_height="120dp"
+             android:layout_row="1"
+             android:layout_column="0"
+             android:layout_margin="5dp"
+             android:layout_marginTop="15dp"
+             android:layout_marginLeft="25dp"
+             android:backgroundTint="#CCF4DAE1"
+             android:clickable="true"
+             android:outlineProvider="none">
+             <ImageView
+                 android:layout_width="match_parent"
+                 android:layout_height="match_parent"
+                 android:scaleType="centerCrop"
+                 android:src="@drawable/symp3" />
+             <LinearLayout
+                 android:layout_width="wrap_content"
+                 android:layout_height="wrap_content"
+                 android:orientation="vertical">
+
+                 <TextView
+                     android:layout_width="match_parent"
+                     android:layout_height="120dp"
+                     android:gravity="center"
+                     android:text="Sleep disturbances"
+                     android:textColor="#373737"
+                     android:textSize="20dp" />
+             </LinearLayout>
+         </androidx.cardview.widget.CardView>
+         <androidx.cardview.widget.CardView
+             android:layout_width="145dp"
+             android:layout_height="120dp"
+             android:layout_row="1"
+             android:layout_column="1"
+             android:layout_margin="5dp"
+             android:layout_marginTop="15dp"
+             android:layout_marginLeft="25dp"
+             android:backgroundTint="#CCC1FF72"
+             android:clickable="true"
+             android:outlineProvider="none">
+             <ImageView
+                 android:layout_width="match_parent"
+                 android:layout_height="match_parent"
+                 android:scaleType="centerCrop"
+                 android:src="@drawable/symp4" />
+             <LinearLayout
+                 android:layout_width="wrap_content"
+                 android:layout_height="wrap_content"
+                 android:orientation="vertical">
+
+                 <TextView
+                     android:layout_width="match_parent"
+                     android:layout_height="120dp"
+                     android:gravity="center"
+                     android:text="Feeling agitated or feeling slowed down"
+                     android:textColor="#373737"
+                     android:textSize="20dp" />
+             </LinearLayout>
+         </androidx.cardview.widget.CardView>
+         <androidx.cardview.widget.CardView
+             android:layout_width="145dp"
+             android:layout_height="120dp"
+             android:layout_row="2"
+             android:layout_column="0"
+             android:layout_margin="5dp"
+             android:layout_marginTop="15dp"
+             android:layout_marginLeft="25dp"
+             android:backgroundTint="#CCE8D09C"
+             android:clickable="true"
+             android:outlineProvider="none">
+             <ImageView
+                 android:layout_width="match_parent"
+                 android:layout_height="match_parent"
+                 android:scaleType="centerCrop"
+                 android:src="@drawable/symp5" />
+             <LinearLayout
+                 android:layout_width="match_parent"
+                 android:layout_height="match_parent"
+                 android:orientation="vertical">
+
+                 <TextView
+                     android:layout_width="match_parent"
+                     android:layout_height="match_parent"
+                     android:gravity="center"
+                     android:text="Fatigue"
+                     android:textColor="#373737"
+                     android:textSize="20dp" />
+             </LinearLayout>
+         </androidx.cardview.widget.CardView>
+         <androidx.cardview.widget.CardView
+             android:layout_width="145dp"
+             android:layout_height="120dp"
+             android:layout_row="2"
+             android:layout_column="1"
+             android:layout_margin="5dp"
+             android:layout_marginTop="15dp"
+             android:layout_marginLeft="25dp"
+             android:backgroundTint="#9900BFA8"
+             android:clickable="true"
+             android:outlineProvider="none">
+             <ImageView
+                 android:layout_width="match_parent"
+                 android:layout_height="match_parent"
+                 android:scaleType="centerCrop"
+                 android:src="@drawable/symp6" />
+             <LinearLayout
+                 android:layout_width="wrap_content"
+                 android:layout_height="wrap_content"
+                 android:orientation="vertical">
+
+                 <TextView
+                     android:layout_width="match_parent"
+                     android:layout_height="120dp"
+                     android:gravity="center"
+                     android:text="Feeling of low self-worth,guilt or short comings"
+                     android:textColor="#373737"
+                     android:textSize="20dp" />
+             </LinearLayout>
+         </androidx.cardview.widget.CardView>
+         <androidx.cardview.widget.CardView
+             android:layout_width="145dp"
+             android:layout_height="120dp"
+             android:layout_row="3"
+             android:layout_column="0"
+             android:layout_margin="5dp"
+             android:layout_marginTop="15dp"
+             android:layout_marginLeft="25dp"
+             android:backgroundTint="#CCB9FFEA"
+             android:clickable="true"
+             android:outlineProvider="none">
+             <ImageView
+                 android:layout_width="match_parent"
+                 android:layout_height="match_parent"
+                 android:scaleType="centerCrop"
+                 android:src="@drawable/symp7" />
+             <LinearLayout
+                 android:layout_width="wrap_content"
+                 android:layout_height="wrap_content"
+                 android:orientation="vertical">
+
+                 <TextView
+                     android:layout_width="match_parent"
+                     android:layout_height="120dp"
+                     android:gravity="center"
+                     android:text="Difficulty concentrating or making decisions"
+                     android:textColor="#373737"
+                     android:textSize="20dp" />
+             </LinearLayout>
+         </androidx.cardview.widget.CardView>
+         <androidx.cardview.widget.CardView
+             android:layout_width="145dp"
+             android:layout_height="120dp"
+             android:layout_row="3"
+             android:layout_column="1"
+             android:layout_margin="5dp"
+             android:layout_marginTop="15dp"
+             android:layout_marginLeft="25dp"
+             android:backgroundTint="#99FABDC9"
+             android:clickable="true"
+             android:outlineProvider="none">
+             <ImageView
+                 android:layout_width="match_parent"
+                 android:layout_height="match_parent"
+                 android:scaleType="centerCrop"
+                 android:src="@drawable/symp8" />
+             <LinearLayout
+                 android:layout_width="wrap_content"
+                 android:layout_height="wrap_content"
+                 android:orientation="vertical">
+
+                 <TextView
+                     android:layout_width="match_parent"
+                     android:layout_height="120dp"
+                     android:gravity="center"
+                     android:text="Suicidal thoughts or intentions"
+                     android:textColor="#373737"
+                     android:textSize="20dp" />
+             </LinearLayout>
+         </androidx.cardview.widget.CardView>
+     </GridLayout>
+
+ </androidx.constraintlayout.widget.ConstraintLayout>
+
+</FrameLayout>
